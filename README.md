@@ -7,7 +7,7 @@ extract this file UNDER A FLODER CALLED "htdocs" ("/htdocs" is at your xampp fol
 
 open your browser, go to "localhost/phpmyadmin"
 
-create a new database CALLED "speedco bus system". once is created, your will see that database on your left
+create a new database CALLED "speedco_bus_system". once is created, your will see that database on your left
 
 Click this database and get into it. Then, you will see there is an "Import" option on your right side. Simply click that buttion and choose "speedco_bus_system.sql" as your import file and then click "go" (so far database has been cloned on your local computer)
 
